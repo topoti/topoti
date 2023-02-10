@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Topoti Sarkar
 - 👀 I’m interested in learning new skills 
-- 🌱 Currently, I am an undergraduate pursuing a Bachelor's degree in Computing Science and Engineering.
+- 🌱 I am a graduate of Computer Science and Engineering from Mawlana Bhashani Science and Technology University.
+- Currently, I am learning Softwate Testing
 - 💞️ I’m looking for an opportunity where I can learn new skills, expand my knowledge
 
 <!---
